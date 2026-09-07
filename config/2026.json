@@ -1,0 +1,23 @@
+{
+  "season": "Spring 2026",
+  "team_counts": {
+    "4th": 8,
+    "5th": 8,
+    "6th": 10,
+    "7th": 10,
+    "8th": 10,
+    "high-school": 6
+  },
+  "age_group_labels": {
+    "Age Group >4th Grade": "4th",
+    "Age Group >5th Grade": "5th",
+    "Age Group >6th Grade": "6th",
+    "Age Group >7th Grade": "7th",
+    "Age Group >8th Grade": "8th",
+    "Age Group >High School House": "high-school",
+    "Age Group >High School Select and Travel (Tryout required!)": "high-school"
+  },
+  "roster": {"minimum": 10, "target": 11, "maximum": 12},
+  "fixed_team_heads": {},
+  "fixed_co_heads": {}
+}

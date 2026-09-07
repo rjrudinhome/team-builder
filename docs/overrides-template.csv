@@ -1,0 +1,6 @@
+constraint_type,subject_id,target_id,value,notes
+force_friend,PLAYER_REG_NUMBER,PLAYER_REG_NUMBER,,Hard requirement that the two players share a team
+separate_players,PLAYER_REG_NUMBER,PLAYER_REG_NUMBER,,Hard requirement that the two players do not share a team
+assign_head_coach,4th-01,COACH_UUID,,Sets this team head coach; UUID must exist in the division
+assign_co_head_coach,4th-01,COACH_UUID,,Adds a co-head coach; UUID must exist in the division
+assign_practice_slot,4th-01,SLOT_ID,,Sets a team slot; SLOT_ID is from 01_practice_slots_normalized.csv

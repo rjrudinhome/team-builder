@@ -1,0 +1,4 @@
+constraint_type,subject_id,target_id,value,notes
+force_friend,101,102,,test pair
+separate_players,101,102,,contradicts test pair
+assign_practice_slot,not-a-team,slot-001,,unknown team
